@@ -57,12 +57,6 @@ Lipsum...
 - [ ] Update the website
 - [ ] Contact the media
 
-## Definitions of Terms
-
-Code
-: typey typey typey
-: another definition of code
-
 ## Strikethrough
 
 ~~This repo is maintained~~
@@ -79,3 +73,14 @@ Code
 
 H~2~O
 y = x^2^
+
+## Alerts
+
+> [!NOTE]
+> Just a little note
+
+> [!IMPORTANT]
+> A very important note!
+
+> [!WARNING]
+> A very dangerous note!
