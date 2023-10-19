@@ -65,14 +65,10 @@ Lipsum...
 
 :joy: :alien: :imp: :sparkles:
 
-## Highlighting
-
-==Very Important Words==
-
 ## Sub/Superscript
 
-H~2~O
-y = x^2^
+H<sub>2</sub>O
+y = x<sup>2</sup>
 
 ## Alerts
 
