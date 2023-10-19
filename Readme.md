@@ -1,0 +1,81 @@
+# Vidly Project
+
+## Description
+
+## Images
+
+![alt text](movie-posters.jpg)
+
+## Blockquotes
+
+> Lipsum blockquote
+
+## Ordered Lists
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+## Horizontal Line Break
+
+---
+
+## Unordered List
+
+- Unordered 1
+- Unordered 2
+- Unordered 3
+
+## External Links
+
+[Google](https://www.google.com)
+
+## Code Blocks
+
+```bash
+git pull
+```
+
+## Tables
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+
+## Footnotes
+
+Click to go to footnote [^1]
+
+Lipsum...
+
+[^1]: This is the footnote here
+
+## Task List
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+## Definitions of Terms
+
+Code
+: typey typey typey
+: another definition of code
+
+## Strikethrough
+
+~~This repo is maintained~~
+
+## Emojis!
+
+:joy: :alien: :imp: :sparkles:
+
+## Highlighting
+
+==Very Important Words==
+
+## Sub/Superscript
+
+H~2~O
+y = x^2^
